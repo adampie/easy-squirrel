@@ -4,7 +4,7 @@ terraform {
     organization = "Fricory"
 
     workspaces {
-      name = "easy-squirrel"
+      name = "excited-husky"
     }
   }
 
