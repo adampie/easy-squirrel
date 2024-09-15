@@ -1,3 +1,11 @@
 workspaces:
 - name: excited-husky
   organization: Fricory
+- name: easy-squirrel-2
+  organization: Fricory
+  dirs:
+    - aws/workspaces
+- name: easy-squirrel-3
+  organization: Fricory
+  dirs:
+    - workspaces
