@@ -1,5 +1,5 @@
 resource "time_rotating" "moar_pets" {
-  rotation_minutes = 1
+  rotation_minutes = 2
 }
 
 resource "random_integer" "pet_length" {
